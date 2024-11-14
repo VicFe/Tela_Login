@@ -1,6 +1,6 @@
 <?php
 $username = "tela_login";
-$servername = "179.188.16.47";
+$servername = "tela_login.mysql.dbaas.com.br";
 $password = "Ca1234@";
 $db_name = "clientes";
 
